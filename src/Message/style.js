@@ -15,6 +15,7 @@ export const MessageContainer = styled.div`
 export const MessageContent = styled.div`
   display: flex;
   max-width: 400px;
+  text-align: start;
 `;
 
 export const MessageFooter = styled.div`
